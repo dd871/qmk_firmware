@@ -1,0 +1,12 @@
+
+{
+ "keyboard_name": "handwired_dactyl_thocks",
+ "manufacturer": "Dave",
+ "url": "https://com.io",
+ "maintainer": "Dave",
+ "usb": {
+	"device_version": "1.0.1",
+    "pid": "0x3001",
+    "vid": "0xDEAD"
+	}
+}
