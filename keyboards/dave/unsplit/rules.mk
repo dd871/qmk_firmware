@@ -1,7 +1,4 @@
-# MCU name
-MCU = kb2040
-# Bootloader selection
-BOOTLOADER = rp2040
+MCU = RP2040
 
 BOOTMAGIC_ENABLE = yes      # Enable Bootmagic Lite
 MOUSEKEY_ENABLE = no       # Mouse keys
